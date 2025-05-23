@@ -18,7 +18,6 @@ You should see output similar to:
 Doctor summary (to see all details, run flutter doctor -v):
 [✓] Flutter (Channel stable, 3.32.0, on Microsoft Windows [Version 10.0.26100.4061], locale en-US)
 [✓] Android toolchain - develop for Android devices (Android SDK version 35.0.1)
-[✓] Chrome - develop for the web
 
 • No issues found!
 ```
