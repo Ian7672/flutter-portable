@@ -58,19 +58,15 @@ These are all included or compatible with the portable setup and allow for full 
 ## 🚀 Getting Started
 
 1. Extract the `.7z` archive.
-2. Run the portable Flutter environment directly.
-3. Open terminal or PowerShell.
-4. Run:
-
-```powershell
-flutter doctor
-```
+2. To install, run: **`FLUTTER-INSTALL.exe`**
+3. To uninstall, run: **`FLUTTER-UNINSTALL.exe`**
+4. A password prompt will appear when opening the EXE files.
 
 ---
 
-## 🔐 Archive Password
+## 🔐 Password for EXE Installation
 
-The `.7z` archive is password-protected.
+When prompted by the `FLUTTER-INSTALL.exe` or `FLUTTER-UNINSTALL.exe` executable:
 
 **Password:** `ian7672`
 
