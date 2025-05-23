@@ -1,6 +1,6 @@
-# Flutter Windows Portable 3.32.0 – Stable Version
+# Flutter Windows Portable 3.29.3 – Stable Version
 
-This is a **portable version of Flutter 3.32.0** for Windows. It includes all necessary components to start developing Flutter applications immediately, without needing a full system-wide installation.
+This is a **portable version of Flutter 3.29.3** for Windows. It includes all necessary components to start developing Flutter applications immediately, without needing a full system-wide installation.
 
 ---
 
@@ -16,7 +16,7 @@ You should see output similar to:
 
 ```
 Doctor summary (to see all details, run flutter doctor -v):
-[✓] Flutter (Channel stable, 3.32.0, on Microsoft Windows [Version 10.0.26100.4061], locale en-US)
+[✓] Flutter (Channel stable, 3.29.3, on Microsoft Windows [Version 10.0.26100.4061], locale en-US)
 [✓] Android toolchain - develop for Android devices (Android SDK version 35.0.1)
 
 • No issues found!
